@@ -4,7 +4,7 @@ import lombok.Getter;
 
 @Getter
 public enum ResultCode {
-
+    //test
     NOHANDLER(404,"请求地址错误"),
     SUCCESS(200,"操作成功"),
     FAILED(500,"操作失败"),
